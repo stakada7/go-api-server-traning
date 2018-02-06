@@ -13,4 +13,5 @@
 
 # For dep
 /vendor
-/bin
+/bin/*
+!.gitkeep
